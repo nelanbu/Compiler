@@ -1,6 +1,6 @@
 # Compiler
 
-This repository contains a collection of programming assignments that cover various aspects of compiler design. The assignments are organized into different modules, each focusing on a different topic.
+This repository contains a collection of programming assignments written in OCaml that cover various aspects of compiler design. The assignments are organized into different modules, each focusing on a different topic.
 
 ### Modules
 
